@@ -1,0 +1,140 @@
+
+
+/* ============ BASIC SETUP ============ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    background-color: #fff;
+    color: #555;
+    font-family: 'Lato', 'Arial', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+    
+}
+
+.row {
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+/* ========== RUSEABLE COMPONENTS ========= */
+
+.noliststyle {
+    list-style-type: none;
+}
+
+.center-text {
+    text-align: center;
+}
+
+/* .a-link {
+    color: #a80a9c !important;
+}
+
+a:hover {
+    color: #a80a9c;
+    border-bottom: 0 solid #a80a9c;
+} */
+
+.justify-text {
+    text-align: justify
+}
+
+.orange {
+    color: orange !important;
+}
+
+.white {
+    color: #fff !important;
+}
+
+.relative {
+    position: relative;
+}
+
+.clearfix:before,
+.clearfix:after {
+   content: '\0020';
+   display: block;
+   overflow: hidden;
+   visibility: hidden;
+   width: 0;
+   height: 0;
+}
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }
+
+/* ========== SECTIONS ========= */
+
+.section-top {
+    height: 100vh;
+    background-color: black;
+    color: #fff !important;
+    /* padding-top:0 !important; */
+}
+
+
+/* ========== HEADER ========= */
+
+.flex-central-container{
+    /* position:relative; 
+    border: 2px solid green; 
+    height: 100%;  */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.header-img {
+    top: 25%;
+    right: 15%;
+    width: 300px;
+    min-width: 300px;
+    z-index: 10;;
+}
+
+/* .header-img img {
+    border: 2px solid orange;
+} */
+
+@media(max-width: 992px) {
+  
+}
+
+.box-border {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    border: 2px solid orange;
+    top: 22%;
+    right: 13%
+}
+
+.box-border2 {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    border: 2px solid orange;
+    top: 32%;
+    right: 18%
+}
+
+.header-text h1 {
+    padding-bottom: 25px;
+    border-bottom: 2px solid orange;
+    font-size: 3em !important
+}
+
+.header-text p {
+    font-size: 2em !important;
+    padding-top: 25px;
+}

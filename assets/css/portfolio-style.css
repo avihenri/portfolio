@@ -44,6 +44,10 @@ a:hover {
     border-bottom: 0 solid #a80a9c;
 } */
 
+.uppercase {
+    text-transform: uppercase;
+}
+
 .justify-text {
     text-align: justify
 }
@@ -72,11 +76,27 @@ a:hover {
 .clearfix:after { clear: both; }
 .clearfix { zoom: 1; }
 
+.is-orange {
+    background-color: orange;
+    border: 2px solid orange;
+}
+
+.more-btn {
+    border: 2px solid orange;
+    color: orange;
+    font-weight: 900;
+}
+
+.more-btn:hover {
+    border: 2px solid orange;
+}
+
 /* ========== SECTIONS ========= */
 
 .section-top {
     height: 100vh;
     background-color: black;
+    background-image: url(../imgs/geometric-transp.png);
     color: #fff !important;
     /* padding-top:0 !important; */
 }
@@ -85,29 +105,21 @@ a:hover {
 /* ========== HEADER ========= */
 
 .flex-central-container{
-    /* position:relative; 
-    border: 2px solid green; 
-    height: 100%;  */
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-
 .header-img {
     top: 25%;
     right: 15%;
-    width: 300px;
-    min-width: 300px;
-    z-index: 10;;
+    z-index: 10;
+    justify-content: center;
+    display: flex;
 }
 
-/* .header-img img {
-    border: 2px solid orange;
-} */
-
-@media(max-width: 992px) {
-  
+.header-img img {
+    max-width: 450px;
 }
 
 .box-border {
@@ -128,13 +140,36 @@ a:hover {
     right: 18%
 }
 
-.header-text h1 {
-    padding-bottom: 25px;
-    border-bottom: 2px solid orange;
-    font-size: 3em !important
+
+
+
+@media(min-width: 768px) {
+    .header-text h1 {
+        padding-bottom: 25px;
+        border-bottom: 2px solid orange;
+        font-size: 3em !important
+    }
+    
+    .header-text p {
+        font-size: 2em !important;
+        padding-top: 25px;
+    }
 }
 
-.header-text p {
-    font-size: 2em !important;
-    padding-top: 25px;
+@media(max-width: 768px) {
+    .header-text h1 {
+        padding-bottom: 25px;
+        border-bottom: 2px solid orange;
+        font-size: 2em !important
+    }
+    
+    .header-text p {
+        font-size: 1.5em !important;
+        padding-top: 25px;
+    }
+
+    .header-img img {
+        width: 70%;
+        min-width: 320px;
+    }
 }

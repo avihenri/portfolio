@@ -25,10 +25,15 @@
           <div class="column flex-central-container header-img">          
            <!-- <div class="box-border"></div>
             <div class="box-border2"></div> -->
-            <div class="header-img">
-              <img src="assets/imgs/m5.jpg" alt="Photo of me">        
+            <div class="header-img text-center">
+              <img src="assets/imgs/m5.png" width="90%;" alt="Photo of me">        
+          </div>
           </div>
 
+      </div>
+
+      <div class="flex-central-container">
+      <button class="button more-btn uppercase">Learn More      <span style="padding-left: 15px;"><i class="fas fa-chevron-down"></i></span></button>
       </div>
 
   </section>

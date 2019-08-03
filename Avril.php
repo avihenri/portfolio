@@ -38,5 +38,26 @@
 
   </section>
 
+  <section class="section section-details">
+  
+  
+
+  </section>
+
+  <section class="section section-timeline">
+
+
+  </section>
+
+  <section class="section section-github">
+
+    
+      <div class="flex-central-container">      
+      <img src="http://ghchart.rshah.org/EC9B06/avihenri" class="box" alt="Avihenri's Github chart" />  
+    </div>
+ 
+
+  </section>
+
   </body>
 </html>

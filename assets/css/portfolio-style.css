@@ -94,11 +94,21 @@ a:hover {
 /* ========== SECTIONS ========= */
 
 .section-top {
-    height: 100vh;
+    /* height: 100vh; */
     background-color: black;
     background-image: url(../imgs/geometric-transp.png);
     color: #fff !important;
     /* padding-top:0 !important; */
+}
+
+.section-details {
+    height: 100vh;
+    color: black;
+}
+
+.section-github {
+    background-color: orange;
+    background-image: url(../imgs/diagmonds.png);
 }
 
 
@@ -140,10 +150,15 @@ a:hover {
     right: 18%
 }
 
-
-
+@media(min-width: 992px) {
+    
+        .section-top {
+            height: 100vh;
+        }
+}
 
 @media(min-width: 768px) {
+
     .header-text h1 {
         padding-bottom: 25px;
         border-bottom: 2px solid orange;

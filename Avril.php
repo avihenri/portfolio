@@ -51,6 +51,12 @@
         <div class="columns">
         <div class="column skills">
         <h3 class="center-text">Skills</h3>
+        <progress class="progress is-orange" value="15" min="0" max="100">15%</progress>
+        <progress class="progress " value="30" max="100">30%</progress>
+        <progress class="progress " value="45" max="100">45%</progress>
+        <progress class="progress " value="60" max="100">60%</progress>
+        <progress class="progress " value="75" max="100">75%</progress>
+        <progress class="progress " value="90" max="100">90%</progress>
         </div>
         <div class="column tools">
         <h3 class="center-text">Tools</h3>

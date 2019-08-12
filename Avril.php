@@ -4,10 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Avril Henry | Portfolio</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
-    <link rel="stylesheet" href="assets/css/fontawesome-free-5.9.0-web/css/all.css">
-    <link rel="stylesheet" href="assets/css/portfolio-style.css">
+    
+    <link rel="stylesheet" href="node_modules/bulma/css/bulma.min.css">
     <!-- <link rel="stylesheet" href="/node-modules/bulma-timeline/css/bulma-timeline.min.css"> -->
+    <link rel="stylesheet" href="assets/css/fontawesome-free-5.9.0-web/css/all.css">
+    <link rel="stylesheet" href="assets/css/portfolio-style.css">  
+    
     <script rel="stylesheet" src="assets/css/fontawesome-free-5.9.0-web/js/all.js"></script>
     
     
@@ -42,24 +44,69 @@
   </section>
 
   <section class="section section-details">
-
+    <!-- ABOUT ME -->
         <div class="aboutme ">
           <h2 class="center-text">About Me</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         </div>
 
         <div class="columns">
+          <!-- SKILLS -->
         <div class="column skills">
         <h3 class="center-text">Skills</h3>
-        <progress class="progress is-orange" value="15" min="0" max="100">15%</progress>
-        <progress class="progress " value="30" max="100">30%</progress>
-        <progress class="progress " value="45" max="100">45%</progress>
-        <progress class="progress " value="60" max="100">60%</progress>
-        <progress class="progress " value="75" max="100">75%</progress>
-        <progress class="progress " value="90" max="100">90%</progress>
+        <h4 class="uppercase">HTML5</h4>
+        <progress class="progress is-orange" value="80" min="0" max="100">85%</progress>
+        <h4 class="uppercase">CSS</h4>
+        <progress class="progress is-orange" value="70" max="100">70%</progress>
+        <h4 class="uppercase">Javascript</h4>
+        <progress class="progress is-orange" value="30" max="100">30%</progress>
+        <h4 class="uppercase">JQuery</h4>
+        <progress class="progress is-orange" value="25" max="100">25%</progress>
+        <h4 class="uppercase">php</h4>
+        <progress class="progress is-orange" value="25" max="100">25%</progress>
+        <h4 class="uppercase">laravel</h4>
+        <progress class="progress is-orange" value="20" max="100">20%</progress>
+        <h4 class="uppercase">SQL</h4>
+        <progress class="progress is-orange" value="20" max="100">20%</progress>
         </div>
+
+        <!-- TOOLS 
+        •	Trello <i class="fab fa-trello"></i>, Jira<i class="fab fa-jira"></i>, Slack <i class="fab fa-slack"></i>
+        •	CMD line <i class="fas fa-terminal"></i>, Git Bash <i class="fas fa-terminal"></i>, npm <i class="fab fa-npm"></i>
+        •	SQL Server, PHP xampp, Bitnami, Postman
+        •	Brackets, eclipse, Visual SC, PhpStorm
+        -->
         <div class="column tools">
         <h3 class="center-text">Tools</h3>
+          <div class="tools-grid">
+            <div class="top-icons">
+              <div class="icon-row">
+                <div class="icon-items"><i class="fab fa-trello fa-3x"></i></div>            
+                <div class="icon-items"><i class="fab fa-jira fa-3x"></i></div> 
+                <div class="icon-items"><i class="fab fa-slack fa-3x"></i></div> 
+                <div class="icon-items"><i class="fab fa-github fa-3x"></i></div>                       
+              </div>
+            </div>
+            <div class="tools-list">
+              <ul class="noListStyle">
+                <li>Trello, Jira, Slack, GitHub</li>
+                <li>SQL Server, PHP Xampp, Postman</li>
+                <li>Brackets, eclipse, Visual Studio Code, PhpStorm</li>
+                <li>Cmd Line, Bitnami, npm, Font Awesome</li>
+              </ul>
+            </div>
+            <div class="bottom-icons">
+            <div class="icon-row">
+                <div class="icon-items"><i class="fas fa-terminal fa-3x"></i></div> 
+                <div class="icon-items"><i class="fas fa-code fa-3x"></i></div>      
+                <div class="icon-items"><i class="fab fa-npm fa-3x"></i></div> 
+                <div class="icon-items"><i class="fab fa-font-awesome-flag fa-3x"></i></div>
+              </div>
+            
+              
+            
+            </div>
+          </div>
         </div>
       </div>
      

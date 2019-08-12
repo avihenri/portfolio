@@ -131,6 +131,11 @@ progress {
     background: blue;
   }
 
+  h4 {
+      margin-top: 10px;
+      margin-left: 5px;
+  }
+  
 /* ========== SECTIONS ========= */
 
 .section-top {
@@ -220,7 +225,9 @@ progress {
 .aboutme {
     margin-bottom: 50px;
 }
-
+.skills h3 {
+    margin-bottom: 30px;
+}
 .aboutme h2, .skills h3, .tools h3 {
     text-transform: uppercase;
     color: orange;
@@ -229,6 +236,7 @@ progress {
 
 .aboutme p {
     text-align: justify;
+    font-size: 120%;
 }
 
 @media(min-width: 992px) {
@@ -237,3 +245,38 @@ progress {
         margin: 0 100px 50px 100px;
     }
 }
+
+.tools-grid {
+    display: grid; 
+    width: 100%; 
+    height: 100%;
+    grid-template-columns: 1fr; 
+    grid-template-rows: repeat(3, 1fr);
+    text-align: center;        
+}
+
+.top-icons {
+    grid-area: 1 / 1 / 2 / 2;
+    margin: auto;
+}
+
+.icon-items {
+    display: inline;
+    margin: 0 20px;
+}
+
+.tools-list {
+    grid-area: 2 / 1 / 3 / 2;
+    margin: auto;
+}
+
+.tools-list ul li {
+    font-size: 120%;
+}
+
+.bottom-icons {
+    grid-area: 3 / 1 / 4 / 2;
+    margin: auto;
+}
+
+

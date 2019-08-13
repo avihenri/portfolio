@@ -44,47 +44,42 @@
   </section>
 
   <section class="section section-details">
-    <!-- ABOUT ME -->
+      <!-- ABOUT ME -->
         <div class="aboutme ">
           <h2 class="center-text">About Me</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         </div>
 
         <div class="columns">
-          <!-- SKILLS -->
+        <!-- SKILLS -->
         <div class="column skills">
-        <h3 class="center-text">Skills</h3>
-        <h4 class="uppercase">HTML5</h4>
-        <progress class="progress is-orange" value="80" min="0" max="100">85%</progress>
-        <h4 class="uppercase">CSS</h4>
-        <progress class="progress is-orange" value="70" max="100">70%</progress>
-        <h4 class="uppercase">Javascript</h4>
-        <progress class="progress is-orange" value="30" max="100">30%</progress>
-        <h4 class="uppercase">JQuery</h4>
-        <progress class="progress is-orange" value="25" max="100">25%</progress>
-        <h4 class="uppercase">php</h4>
-        <progress class="progress is-orange" value="25" max="100">25%</progress>
-        <h4 class="uppercase">laravel</h4>
-        <progress class="progress is-orange" value="20" max="100">20%</progress>
-        <h4 class="uppercase">SQL</h4>
-        <progress class="progress is-orange" value="20" max="100">20%</progress>
+          <h3 class="center-text">Skills</h3>
+          <h4 class="uppercase">HTML5</h4>
+          <progress class="progress is-orange" value="80" min="0" max="100">85%</progress>
+          <h4 class="uppercase">CSS</h4>
+          <progress class="progress is-orange" value="70" max="100">70%</progress>
+          <h4 class="uppercase">Javascript</h4>
+          <progress class="progress is-orange" value="30" max="100">30%</progress>
+          <h4 class="uppercase">JQuery</h4>
+          <progress class="progress is-orange" value="25" max="100">25%</progress>
+          <h4 class="uppercase">php</h4>
+          <progress class="progress is-orange" value="25" max="100">25%</progress>
+          <h4 class="uppercase">laravel</h4>
+          <progress class="progress is-orange" value="20" max="100">20%</progress>
+          <h4 class="uppercase">SQL</h4>
+          <progress class="progress is-orange" value="20" max="100">20%</progress>
         </div>
 
-        <!-- TOOLS 
-        •	Trello <i class="fab fa-trello"></i>, Jira<i class="fab fa-jira"></i>, Slack <i class="fab fa-slack"></i>
-        •	CMD line <i class="fas fa-terminal"></i>, Git Bash <i class="fas fa-terminal"></i>, npm <i class="fab fa-npm"></i>
-        •	SQL Server, PHP xampp, Bitnami, Postman
-        •	Brackets, eclipse, Visual SC, PhpStorm
-        -->
+        <!-- TOOLS -->
         <div class="column tools">
         <h3 class="center-text">Tools</h3>
           <div class="tools-grid">
             <div class="top-icons">
               <div class="icon-row">
-                <div class="icon-items"><i class="fab fa-trello fa-3x"></i></div>            
-                <div class="icon-items"><i class="fab fa-jira fa-3x"></i></div> 
-                <div class="icon-items"><i class="fab fa-slack fa-3x"></i></div> 
-                <div class="icon-items"><i class="fab fa-github fa-3x"></i></div>                       
+                <div class="icon-items"><i class="fab fa-trello fa-2x"></i></div>            
+                <div class="icon-items"><i class="fab fa-jira fa-2x"></i></div> 
+                <div class="icon-items"><i class="fab fa-slack fa-2x"></i></div> 
+                <div class="icon-items"><i class="fab fa-github fa-2x"></i></div>                       
               </div>
             </div>
             <div class="tools-list">
@@ -97,74 +92,85 @@
             </div>
             <div class="bottom-icons">
             <div class="icon-row">
-                <div class="icon-items"><i class="fas fa-terminal fa-3x"></i></div> 
-                <div class="icon-items"><i class="fas fa-code fa-3x"></i></div>      
-                <div class="icon-items"><i class="fab fa-npm fa-3x"></i></div> 
-                <div class="icon-items"><i class="fab fa-font-awesome-flag fa-3x"></i></div>
-              </div>
-            
-              
-            
+                <div class="icon-items"><i class="fas fa-terminal fa-2x"></i></div> 
+                <div class="icon-items"><i class="fas fa-code fa-2x"></i></div>      
+                <div class="icon-items"><i class="fab fa-npm fa-2x"></i></div> 
+                <div class="icon-items"><i class="fab fa-font-awesome-flag fa-2x"></i></div>
+            </div>
             </div>
           </div>
         </div>
-      </div>
-     
-  
-
-  </section>
-<!-- 
-  <section class="section section-timeline">
-  <div class="timeline is-centered">
-  <header class="timeline-header">
-    <span class="tag is-medium is-primary">Start</span>
-  </header>
-  <div class="timeline-item is-primary">
-    <div class="timeline-marker is-primary"></div>
-    <div class="timeline-content">
-      <p class="heading">January 2016</p>
-      <p>Timeline content - Can include any HTML element</p>
-    </div>
-  </div>
-  <div class="timeline-item is-warning">
-    <div class="timeline-marker is-warning is-image is-32x32">
-      <img src="http://bulma.io/images/placeholders/32x32.png">
-    </div>
-    <div class="timeline-content">
-      <p class="heading">February 2016</p>
-      <p>Timeline content - Can include any HTML element</p>
-    </div>
-  </div>
-  <header class="timeline-header">
-    <span class="tag is-primary">2017</span>
-  </header>
-  <div class="timeline-item is-danger">
-    <div class="timeline-marker is-danger is-icon">
-      <i class="fa fa-flag"></i>
-    </div>
-    <div class="timeline-content">
-      <p class="heading">March 2017</p>
-      <p>Timeline content - Can include any HTML element</p>
-    </div>
-  </div>
-  <header class="timeline-header">
-    <span class="tag is-medium is-primary">End</span>
-  </header>
-</div> -->
-
+      </div>   
 
   </section>
 
+  <!-- GITHUB -->
   <section class="section section-github">
-  <h3> <span><i class="fab fa-github"></i></span> GitHub Contributions</h3>
-    
-      <div class="flex-central-container">      
-      
+    <h3> <span><i class="fab fa-github"></i></span> GitHub Contributions</h3>    
+      <div class="flex-central-container">     
       <img src="http://ghchart.rshah.org/EC9B06/avihenri" class="box" alt="Avihenri's Github chart" />  
     </div>
-    <h3><a href="https://github.com/avihenri" class="white-link">Check out my GitHub here</a></h3>
- 
+    <h3><a href="https://github.com/avihenri" class="white-link">Check out my GitHub here</a></h3> 
+  </section>
 
+  <!-- TIMELINE  -->
+  <section class="section section-timeline">
+    <div class="timeline is-centered">
+      <header class="timeline-header">
+        <span class="tag is-medium is-primary">Start</span>
+      </header>
+      <div class="timeline-item is-primary">
+        <div class="timeline-marker is-primary"></div>
+        <div class="timeline-content">
+          <p class="heading">January 2016</p>
+          <p>Timeline content - Can include any HTML element</p>
+        </div>
+      </div>
+      <div class="timeline-item is-warning">
+        <div class="timeline-marker is-warning is-image is-32x32">
+          <img src="http://bulma.io/images/placeholders/32x32.png">
+        </div>
+        <div class="timeline-content">
+          <p class="heading">February 2016</p>
+          <p>Timeline content - Can include any HTML element</p>
+        </div>
+      </div>
+      <header class="timeline-header">
+        <span class="tag is-primary">2017</span>
+      </header>
+      <div class="timeline-item is-danger">
+        <div class="timeline-marker is-danger is-icon">
+          <i class="fa fa-flag"></i>
+        </div>
+        <div class="timeline-content">
+          <p class="heading">March 2017</p>
+          <p>Timeline content - Can include any HTML element</p>
+        </div>
+      </div>
+      <header class="timeline-header">
+        <span class="tag is-medium is-primary">End</span>
+      </header>
+    </div>
+</section>
+
+  <!-- FOOTER -->
+  <section class="section section-footer">
+  <div class="columns">
+    <div class="column flex-central-container">            
+      <div class="footer-text">
+        <h1 class="title white">Contact</h1>
+        <a href="mailto:info@henri-ds.com" class="white"> info@henri-ds.com</a> <br>
+        <a href="https://www.linkedin.com/in/avril-m-henry" class="white" target="_blank" style="padding-left: 30px;"><span><i class="fab fa-linkedin"></i></span> LinkedIn</a>
+      </div>           
+    </div>
+    <div class="column flex-central-container">            
+      <div class="footer-text">
+      <a href="https://bulma.io" target="_blank">
+      <img src="https://bulma.io/images/made-with-bulma--white.png" alt="Made with Bulma" width="300" height="auto">
+      </a>
+      </div>           
+    </div>
+``</div>
   </section>
 
   </body>

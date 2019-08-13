@@ -160,6 +160,12 @@ progress {
     margin: 5px 0;
 }
 
+.section-footer {
+    /* height: 200px; */
+    background-color: black;
+    background-image: url(../imgs/geometric-transp.png);
+}
+
 
 /* ========== HEADER ========= */
 
@@ -249,9 +255,9 @@ progress {
 .tools-grid {
     display: grid; 
     width: 100%; 
-    height: 100%;
+    height: 470px;
     grid-template-columns: 1fr; 
-    grid-template-rows: repeat(3, 1fr);
+    grid-template-rows: 100px 1fr 100px;;
     text-align: center;        
 }
 
@@ -265,6 +271,13 @@ progress {
     margin: 0 20px;
 }
 
+@media(max-width: 418px) {
+    .icon-items {
+        display: inline;
+        margin: 0 5px;
+    }
+}
+
 .tools-list {
     grid-area: 2 / 1 / 3 / 2;
     margin: auto;
@@ -272,6 +285,7 @@ progress {
 
 .tools-list ul li {
     font-size: 120%;
+    padding: 7px 0;
 }
 
 .bottom-icons {
@@ -279,4 +293,36 @@ progress {
     margin: auto;
 }
 
+.footer-text a {
+    width: 100%;
+    text-align: center;
+}
 
+@media(min-width: 768px) {
+
+    .footer-text h1 {
+        padding-bottom: 25px;
+        border-bottom: 2px solid orange;
+        text-align: center;
+        font-size: 2em !important;
+    }
+    
+    .footer-text p {
+        font-size: 1.5em !important;
+    }
+    
+}
+
+@media(max-width: 768px) {
+    .footer-text h1 {
+        padding-bottom: 25px;
+        border-bottom: 2px solid orange;
+        text-align: center;
+        font-size: 2em !important
+    }
+    
+    .footer-text p {
+        font-size: 1.5em !important;
+    }
+
+}

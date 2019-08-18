@@ -6,10 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avihenri/portfolio"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bulma": "^0.7.5",
-    "bulma-timeline": "^3.0.4"
+    "bulma-extensions": "^6.2.7"
   }
 }

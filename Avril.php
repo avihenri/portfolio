@@ -6,6 +6,8 @@
     <title>Avril Henry | Portfolio</title>
     
     <link rel="stylesheet" href="node_modules/bulma/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-extensions@4.0.0/dist/css/bulma-extensions.min.css">
+    <!-- <link rel="stylesheet" href="assets/bulma-extensions/dist/bulma-extensions.min.css"> -->
     <!-- <link rel="stylesheet" href="/node-modules/bulma-timeline/css/bulma-timeline.min.css"> -->
     <link rel="stylesheet" href="assets/css/fontawesome-free-5.9.0-web/css/all.css">
     <link rel="stylesheet" href="assets/css/portfolio-style.css">  
@@ -172,6 +174,6 @@
     </div>
 ``</div>
   </section>
-
+<script src="https://cdn.jsdelivr.net/npm/bulma-extensions@4.0.0/dist/js/bulma-extensions.min.js"></script>
   </body>
 </html>

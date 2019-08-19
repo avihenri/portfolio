@@ -94,6 +94,12 @@ a:hover {
     border: 2px solid orange;
 }
 
+.timeline-item.border-orange::before {
+    background-color: orange;
+}
+.border-orange {
+    border: 2px solid orange;
+}
 .more-btn {
     border: 2px solid orange;
     color: orange;

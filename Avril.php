@@ -118,40 +118,39 @@
   <!-- TIMELINE  -->
   <section class="section section-timeline">
     <div class="timeline is-centered">
-      <header class="timeline-header">
-        <span class="tag is-medium is-primary">Start</span>
-      </header>
-      <div class="timeline-item is-primary">
-        <div class="timeline-marker is-primary"></div>
+      <!-- <header class="timeline-header">
+        <span class="tag is-medium is-orange">Start</span>
+      </header> -->
+      <div class="timeline-item is-warning">
+      <div class="timeline-marker is-warning"></div>
         <div class="timeline-content">
-          <p class="heading">January 2016</p>
-          <p>Timeline content - Can include any HTML element</p>
+          <p class="heading">August 2017 - Present</p>
+          <p>IT Support Techincian / Junior Developer</p>
         </div>
-      </div>
+      </div> 
       <div class="timeline-item is-warning">
         <div class="timeline-marker is-warning is-image is-32x32">
           <img src="http://bulma.io/images/placeholders/32x32.png">
         </div>
         <div class="timeline-content">
-          <p class="heading">February 2016</p>
-          <p>Timeline content - Can include any HTML element</p>
+          <p class="heading">February 2016 - Present</p>
+          <p> HTML, CSS, JavaScript, JQuery, PHP &amp; SQL</p>
         </div>
       </div>
-      <header class="timeline-header">
-        <span class="tag is-primary">2017</span>
-      </header>
-      <div class="timeline-item is-danger">
-        <div class="timeline-marker is-danger is-icon">
-          <i class="fa fa-flag"></i>
-        </div>
+      <div class="timeline-item is-warning">
+      <div class="timeline-marker is-warning is-image is-32x32">
+          <img src="http://bulma.io/images/placeholders/32x32.png">
+        </div>        
         <div class="timeline-content">
-          <p class="heading">March 2017</p>
-          <p>Timeline content - Can include any HTML element</p>
+          <p class="heading">October 2015</p>
+          <p>Open University: <br> BSc Computing and IT with Design</p>
         </div>
       </div>
-      <header class="timeline-header">
-        <span class="tag is-medium is-primary">End</span>
-      </header>
+      
+         
+      <!-- <header class="timeline-header">
+        <span class="tag is-medium is-orange">End</span>
+      </header> -->
     </div>
 </section>
 

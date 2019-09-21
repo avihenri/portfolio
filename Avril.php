@@ -7,8 +7,6 @@
     
     <link rel="stylesheet" href="node_modules/bulma/css/bulma.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-extensions@4.0.0/dist/css/bulma-extensions.min.css">
-    <!-- <link rel="stylesheet" href="assets/bulma-extensions/dist/bulma-extensions.min.css"> -->
-    <!-- <link rel="stylesheet" href="/node-modules/bulma-timeline/css/bulma-timeline.min.css"> -->
     <link rel="stylesheet" href="assets/css/fontawesome-free-5.9.0-web/css/all.css">
     <link rel="stylesheet" href="assets/css/portfolio-style.css">  
     
@@ -16,8 +14,7 @@
     
     
   </head>
-  <body>
-   <?php // require 'inc/navbar.php'?>  
+  <body> 
   <section class="section section-top">  
 
       <div class="columns" style="height: 100%;">
@@ -117,10 +114,7 @@
 
   <!-- TIMELINE  -->
   <section class="section section-timeline">
-    <div class="timeline is-centered">
-      <!-- <header class="timeline-header">
-        <span class="tag is-medium is-orange">Start</span>
-      </header> -->
+    <div class="timeline is-centered">     
       <div class="timeline-item is-warning">
       <div class="timeline-marker is-warning"></div>
         <div class="timeline-content">
@@ -154,12 +148,7 @@
           <p class="heading">October 2015</p>
           <p>Open University: <br> BSc Computing and IT with Design</p>
         </div>
-      </div>
-      
-         
-      <!-- <header class="timeline-header">
-        <span class="tag is-medium is-orange">End</span>
-      </header> -->
+      </div>  
     </div>
 </section>
 
@@ -182,11 +171,9 @@
     </div>
 ``</div>
   </section>
+
 <script src="https://cdn.jsdelivr.net/npm/bulma-extensions@4.0.0/dist/js/bulma-extensions.min.js"></script>
-<script
-  src="https://code.jquery.com/jquery-3.4.1.min.js"
-  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-  crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <script>
 
   $(document).ready(function() {

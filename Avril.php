@@ -40,7 +40,7 @@
       </div>
 
       <div class="flex-central-container">
-      <button class="button more-btn uppercase">Learn More      <span style="padding-left: 15px;"><i class="fas fa-chevron-down"></i></span></button>
+      <button class="button more-btn uppercase" id="learnMore"> Learn More  <span style="padding-left: 15px;"><i class="fas fa-chevron-down"></i></span></button>
       </div>
 
   </section>
@@ -48,7 +48,7 @@
   <section class="section section-details">
       <!-- ABOUT ME -->
         <div class="aboutme ">
-          <h2 class="center-text">About Me</h2>
+          <h2 class="center-text" id="aboutMe">About Me</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         </div>
 
@@ -67,7 +67,7 @@
           <h4 class="uppercase">php</h4>
           <progress class="progress is-orange" value="25" max="100">25%</progress>
           <h4 class="uppercase">laravel</h4>
-          <progress class="progress is-orange" value="20" max="100">20%</progress>
+          <progress class="progress is-orange" value="35" max="100">35%</progress>
           <h4 class="uppercase">SQL</h4>
           <progress class="progress is-orange" value="20" max="100">20%</progress>
         </div>
@@ -124,10 +124,19 @@
       <div class="timeline-item is-warning">
       <div class="timeline-marker is-warning"></div>
         <div class="timeline-content">
-          <p class="heading">August 2017 - Present</p>
-          <p>IT Support Techincian / Junior Developer</p>
+          <p class="heading">August 2019 - Present</p>
+          <p>Junior Developer</p>
         </div>
       </div> 
+      <div class="timeline-item is-warning">
+        <div class="timeline-marker is-warning is-image is-32x32">
+          <img src="http://bulma.io/images/placeholders/32x32.png">
+        </div>
+        <div class="timeline-content">
+          <p class="heading">August 2017 - Present</p>
+          <p> IT Support Techincian</p>
+        </div>
+      </div>
       <div class="timeline-item is-warning">
         <div class="timeline-marker is-warning is-image is-32x32">
           <img src="http://bulma.io/images/placeholders/32x32.png">
@@ -174,5 +183,20 @@
 ``</div>
   </section>
 <script src="https://cdn.jsdelivr.net/npm/bulma-extensions@4.0.0/dist/js/bulma-extensions.min.js"></script>
+<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+<script>
+
+  $(document).ready(function() {
+    $("#learnMore").click(function() {
+    $([document.documentElement, document.body]).animate({
+        scrollTop: $("#aboutMe").offset().top
+    }, 1000);
+});
+  });
+
+</script>
   </body>
 </html>

@@ -46,7 +46,7 @@
       <!-- ABOUT ME -->
         <div class="aboutme ">
           <h2 class="center-text" id="aboutMe">About Me</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p>Hello, my name is Avril and I would like to welcome and thank you for taking the time to read my portfolio. I am currently based in Edinburgh and work at Rabbie&apos;s Tours in the IT team. For the past few years I have been learning everything there is to do with being an IT Technician and now moving into a Junior Developer role. I love to learn and enjoy a challenge. In my personal life I have been working on a website for a friend&apos;s business and keep myself busy with creative crafts.</p>
         </div>
 
         <div class="columns">
@@ -81,7 +81,7 @@
                 <div class="icon-items"><i class="fab fa-github fa-2x"></i></div>                       
               </div>
             </div>
-            <div class="tools-list">
+            <div class="tools-list" style="margin: 30px;">
               <ul class="noListStyle">
                 <li>Trello, Jira, Slack, GitHub</li>
                 <li>SQL Server, PHP Xampp, Postman</li>
@@ -119,7 +119,7 @@
       <div class="timeline-marker is-warning"></div>
         <div class="timeline-content">
           <p class="heading">August 2019 - Present</p>
-          <p>Junior Developer</p>
+          <p>Junior Developer at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&apos;s</a> </p>
         </div>
       </div> 
       <div class="timeline-item is-warning">
@@ -128,7 +128,7 @@
         </div>
         <div class="timeline-content">
           <p class="heading">August 2017 - Present</p>
-          <p> IT Support Techincian</p>
+          <p> IT Support Techincian at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&apos;s</a></p>
         </div>
       </div>
       <div class="timeline-item is-warning">
@@ -137,7 +137,7 @@
         </div>
         <div class="timeline-content">
           <p class="heading">February 2016 - Present</p>
-          <p> HTML, CSS, JavaScript, JQuery, PHP &amp; SQL</p>
+          <p> HTML, CSS, JavaScript, JQuery, PHP, Laravel &amp; SQL</p>
         </div>
       </div>
       <div class="timeline-item is-warning">

@@ -36,11 +36,12 @@ body {
 }
 
 .a-link {
-    color: #a80a9c !important;
+    color: darkslategrey !important;
+    font-weight: 600;
 }
 
 a:hover {
-    color: orange;
+    color: orange !important;
     border-bottom: 0 solid orange;
 }
 
@@ -286,7 +287,7 @@ progress {
 
 .tools-list {
     grid-area: 2 / 1 / 3 / 2;
-    margin: auto;
+    align-items: center;
 }
 
 .tools-list ul li {

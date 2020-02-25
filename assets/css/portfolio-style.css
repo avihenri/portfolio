@@ -249,7 +249,10 @@ progress {
 
 .aboutme p {
     text-align: justify;
-    font-size: 120%;
+    font-size: 130%;
+    margin-bottom: 25px;
+    line-height: 1.5;
+    letter-spacing: 1px;
 }
 
 @media(min-width: 992px) {

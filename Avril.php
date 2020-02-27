@@ -48,8 +48,8 @@
           <h2 class="center-text" id="aboutMe">About Me</h2>
          <p>Well hello there and welcome to my portfolio! My name is Avril and I would first like to thank you for taking the time to come read the blurb of my life! 
          I won't go into too much detail don't worry!</p>
-         <p>I am currently based in Edinburgh and working at Rabbie's Tours in the IT & Development team. Rabbie's is a great place to work and I have been very 
-         lucky to be involved in the business as it expands. I first started as a Tour Consultant in 2016 and as I was going through an Open University course (IT & Computing), 
+         <p>I am currently based in Edinburgh and working at Rabbie's Tours in the IT &amp; Development team. Rabbie's is a great place to work and I have been very 
+         lucky to be involved in the business as it expands. I first started as a Tour Consultant in 2016 and as I was going through an Open University course (IT &amp; Computing), 
          I jumped at the chance to move into the IT team in 2017 when the position of IT Support Technician came up. In this role, I learned a lot about all sorts of devices, systems, networking, 
          Cyber security and the list goes on. I was also able to put into practice what I was learning in my own time when it came to web development by building a 
          Cyber security training site for employees. It was a fun first project! Two years on and Rabbie's have now taken me on as a Developer! And here I am, loving it! 
@@ -130,7 +130,7 @@
       <div class="timeline-marker is-warning"></div>
         <div class="timeline-content">
           <p class="heading">August 2019 - Present</p>
-          <p>Developer at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&apos;s</a> </p>
+          <p>Developer at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&amp;apos;s</a> </p>
         </div>
       </div> 
       <div class="timeline-item is-warning">
@@ -139,7 +139,7 @@
         </div>
         <div class="timeline-content">
           <p class="heading">August 2017 - November 2019</p>
-          <p> IT Support Techincian at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&apos;s</a></p>
+          <p> IT Support Techincian at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&amp;apos;s</a></p>
         </div>
       </div>
       <div class="timeline-item is-warning">
@@ -148,7 +148,7 @@
         </div>
         <div class="timeline-content">
           <p class="heading">June 2017 - Present</p>
-          <p> HTML, CSS, JavaScript, JQuery, PHP, Laravel &amp; SQL</p>
+          <p> HTML, CSS, JavaScript, JQuery, PHP, Laravel &amp;amp; SQL</p>
         </div>
       </div>
       <div class="timeline-item is-warning">

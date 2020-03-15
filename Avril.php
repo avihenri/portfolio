@@ -46,18 +46,17 @@
       <!-- ABOUT ME -->
         <div class="aboutme ">
           <h2 class="center-text" id="aboutMe">About Me</h2>
-         <p>Well hello there and welcome to my portfolio! My name is Avril and I would first like to thank you for taking the time to come read the blurb of my life! 
-         I won't go into too much detail don't worry!</p>
+         <p>Hello there and welcome! My name is Avril and thank you for taking the time to come read my Portfolio!</p>
          <p>I am currently based in Edinburgh and working at Rabbie's Tours in the IT & Development team. Rabbie's is a great place to work and I have been very 
          lucky to be involved in the business as it expands. I first started as a Tour Consultant in 2016 and as I was going through an Open University course (IT & Computing), 
-         I jumped at the chance to move into the IT team in 2017 when the position of IT Support Technician came up. In this role, I learned a lot about all sorts of devices, systems, networking, 
-         Cyber security and the list goes on. I was also able to put into practice what I was learning in my own time when it came to web development by building a 
-         Cyber security training site for employees. It was a fun first project! Two years on and Rabbie's have now taken me on as a Developer! And here I am, loving it! 
+         I jumped at the chance to move into the IT team in 2017 when the position of IT Support Technician came up. In this role, I learned a lot about all sorts of devices, systems, networking and 
+         Cyber security. I was also able to put into practice what I was learning in my own time when it came to web development by building a 
+         Cyber security training site for employees. It was a fun first project! <br> Two years on and Rabbie's have now taken me on as a Developer! And here I am, loving it! 
          Every day is a school day! As you may have guessed.. I love to learn!</p>
          <p>In my personal life, I love to get stuck in some new crafting challenge! Whether that be macrame, cross stitch, print design, string art.. (this is a never 
          ending list by the way, so I will stop there!). My poor family and friends get my interesting creations as gifts! Not too many complaints so far though :)</p>
          <p>I am also currently working on a friend's website for their business which is helping me even learn even more!</p>
-         <p>In 2020, I hope to start creating my own crafting blog with random things I have made (or tried to make) so watch this space!</p>
+         <p>By the end of 2020, I hope to start creating my own crafting blog with random things I have made (or tried to make) over the year.. watch this space!</p>
         </div>
 
         <div class="columns">
@@ -67,13 +66,13 @@
           <h4 class="uppercase">HTML5</h4>
           <progress class="progress is-orange" value="100" min="0" max="100">100%</progress>
           <h4 class="uppercase">CSS</h4>
-          <progress class="progress is-orange" value="80" max="100">80%</progress>
+          <progress class="progress is-orange" value="85" max="100">80%</progress>
           <h4 class="uppercase">Javascript</h4>
-          <progress class="progress is-orange" value="40" max="100">40%</progress>
+          <progress class="progress is-orange" value="45" max="100">40%</progress>
           <h4 class="uppercase">JQuery</h4>
-          <progress class="progress is-orange" value="35" max="100">35%</progress>
+          <progress class="progress is-orange" value="45" max="100">35%</progress>
           <h4 class="uppercase">php</h4>
-          <progress class="progress is-orange" value="35" max="100">35%</progress>
+          <progress class="progress is-orange" value="45" max="100">35%</progress>
           <h4 class="uppercase">laravel</h4>
           <progress class="progress is-orange" value="65" max="100">65%</progress>
           <h4 class="uppercase">SQL</h4>
@@ -92,7 +91,7 @@
                 <div class="icon-items"><i class="fab fa-github fa-2x"></i></div>                       
               </div>
             </div>
-            <div class="tools-list" style="margin: 30px;">
+            <div class="tools-list" style="margin-top: 30px;">
               <ul class="noListStyle">
                 <li>Trello, Jira, Slack, GitHub</li>
                 <li>SQL Server, PHP Xampp, Postman</li>

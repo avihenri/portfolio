@@ -129,7 +129,7 @@
       <div class="timeline-marker is-warning"></div>
         <div class="timeline-content">
           <p class="heading">August 2019 - Present</p>
-          <p>Developer at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&apos;s</a> </p>
+          <p>Developer at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&amp;apos;s</a> </p>
         </div>
       </div> 
       <div class="timeline-item is-warning">
@@ -138,7 +138,7 @@
         </div>
         <div class="timeline-content">
           <p class="heading">August 2017 - November 2019</p>
-          <p> IT Support Techincian at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&apos;s</a></p>
+          <p> IT Support Techincian at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&amp;apos;s</a></p>
         </div>
       </div>
       <div class="timeline-item is-warning">
@@ -147,7 +147,7 @@
         </div>
         <div class="timeline-content">
           <p class="heading">June 2017 - Present</p>
-          <p> HTML, CSS, JavaScript, JQuery, PHP, Laravel &amp; SQL</p>
+          <p> HTML, CSS, JavaScript, JQuery, PHP, Laravel &amp;amp; SQL</p>
         </div>
       </div>
       <div class="timeline-item is-warning">

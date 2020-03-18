@@ -93,10 +93,11 @@
             </div>
             <div class="tools-list" style="margin-top: 30px;">
               <ul class="noListStyle">
-                <li>Trello, Jira, Slack, GitHub</li>
+                <li>Trello, Jira, Slack, Teams, GitHub</li>
                 <li>SQL Server, PHP Xampp, Postman</li>
                 <li>Brackets, eclipse, Visual Studio Code, PhpStorm</li>
-                <li>Cmd Line, Bitnami, npm, Font Awesome</li>
+                <li>Cmd Line, Bitnami, PuTTY, npm, Font Awesome</li>
+                <li>AWS EC2 & Lightsail, Lamp stacks</li>
               </ul>
             </div>
             <div class="bottom-icons">

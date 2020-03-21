@@ -118,7 +118,7 @@
   <section class="section section-github">
     <h3> <span><i class="fab fa-github"></i></span> GitHub Contributions</h3>    
       <div class="flex-central-container">     
-      <img src="http://ghchart.rshah.org/EC9B06/avihenri" class="box" alt="Avihenri's Github chart" />  
+      <img src="https://ghchart.rshah.org/EC9B06/avihenri" class="box" alt="Avihenri's Github chart" />  
     </div>
     <h3><a href="https://github.com/avihenri" class="white-link">Check out my GitHub here</a></h3> 
   </section>
@@ -135,7 +135,7 @@
       </div> 
       <div class="timeline-item is-warning">
         <div class="timeline-marker is-warning is-image is-32x32">
-          <img src="http://bulma.io/images/placeholders/32x32.png">
+          <img src="https://bulma.io/images/placeholders/32x32.png">
         </div>
         <div class="timeline-content">
           <p class="heading">August 2017 - November 2019</p>
@@ -144,7 +144,7 @@
       </div>
       <div class="timeline-item is-warning">
         <div class="timeline-marker is-warning is-image is-32x32">
-          <img src="http://bulma.io/images/placeholders/32x32.png">
+          <img src="https://bulma.io/images/placeholders/32x32.png">
         </div>
         <div class="timeline-content">
           <p class="heading">June 2017 - Present</p>
@@ -153,7 +153,7 @@
       </div>
       <div class="timeline-item is-warning">
       <div class="timeline-marker is-warning is-image is-32x32">
-          <img src="http://bulma.io/images/placeholders/32x32.png">
+          <img src="https://bulma.io/images/placeholders/32x32.png">
         </div>        
         <div class="timeline-content">
           <p class="heading">October 2015</p>

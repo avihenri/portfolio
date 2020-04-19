@@ -163,6 +163,51 @@
     </div>
 </section>
 
+<!-- GITHUB -->
+<section class="section section-github">
+    <h3> <span><i class="fas fa-code"></i></span> Mini Projects <span><i class="fas fa-code"></i></span></h3>
+</section>
+<section class="section" style="padding-top:30px;">
+    <div class="columns">
+      <div class="column">
+        <!-- <h4 class="center-text white">Film Club</h4> -->
+        <a href="../projects/FilmClub" target="_blank">
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-3by2">
+              <img src="assets/imgs/filmclub.PNG" alt="Cinema Curtains">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="content">
+              <br>
+            </div>
+          </div>
+        </div>
+      </a>
+      </div>
+      <div class="column">
+        <!-- <h4 class="center-text white">Simple Games</h4> -->
+        <a href="../projects/Games" target="_blank">
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-3by2">
+              <img src="assets/imgs/games2.PNG" alt="Cinema Curtains">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="content">
+              
+              <br>
+            </div>
+          </div>
+        </div>
+        </a>
+      </div>
+    </div>
+</section>
+
+
   <!-- FOOTER -->
   <section class="section section-footer">
   <div class="columns">

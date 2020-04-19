@@ -167,6 +167,10 @@ progress {
     margin: 5px 0;
 }
 
+.section-github span {
+    margin: 0 20px;
+}
+
 .section-footer {
     /* height: 200px; */
     background-color: black;

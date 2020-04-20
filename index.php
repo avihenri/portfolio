@@ -170,7 +170,6 @@
 <section class="section" style="padding-top:30px;">
     <div class="columns">
       <div class="column">
-        <!-- <h4 class="center-text white">Film Club</h4> -->
         <a href="../projects/FilmClub" target="_blank">
         <div class="card">
           <div class="card-image">
@@ -187,7 +186,6 @@
       </a>
       </div>
       <div class="column">
-        <!-- <h4 class="center-text white">Simple Games</h4> -->
         <a href="../projects/Games" target="_blank">
         <div class="card">
           <div class="card-image">

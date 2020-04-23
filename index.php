@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-extensions@4.0.0/dist/css/bulma-extensions.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome-free-5.9.0-web/css/all.css">
     <link rel="stylesheet" href="assets/css/portfolio-style.css">  
-    
+    <link rel="shortcut icon" type="image/png" href="/projects/logo/hds.png">
     <script rel="stylesheet" src="assets/css/fontawesome-free-5.9.0-web/js/all.js"></script>
     
     
@@ -49,13 +49,12 @@
          <p>Hello there and welcome! My name is Avril and thank you for taking the time to come read my Portfolio!</p>
          <p>I am currently based in Edinburgh and working at Rabbie's Tours in the IT & Development team. Rabbie's is a great place to work and I have been very 
          lucky to be involved in the business as it expands. I first started as a Tour Consultant in 2016 and as I was going through an Open University course (IT & Computing), 
-         I jumped at the chance to move into the IT team in 2017 when the position of IT Support Technician came up. In this role, I learned a lot about all sorts of devices, systems, networking and 
+         I jumped at the chance to move into the IT team in 2017 when the position of IT Support Technician came up. In this role, I learned a lot about all sorts of devices, systems, networking, and 
          Cyber security. I was also able to put into practice what I was learning in my own time when it came to web development by building a 
          Cyber security training site for employees. It was a fun first project! <br> Two years on and Rabbie's have now taken me on as a Developer! And here I am, loving it! 
          Every day is a school day! As you may have guessed.. I love to learn!</p>
-         <p>In my personal life, I love to get stuck in some new crafting challenge! Whether that be macrame, cross stitch, print design, string art.. (this is a never 
-         ending list by the way, so I will stop there!). My poor family and friends get my interesting creations as gifts! Not too many complaints so far though :)</p>
-         <p>I am also currently working on a friend's website for their business which is helping me even learn even more!</p>
+         <p>In my personal life, I love to get stuck in some new crafting challenge! Whether that be macrame, cross stitch, print design, string art.. (this is a never-ending list by the way, so I will stop there!). My poor family and friends get my interesting creations as gifts! Not too many complaints so far though :)</p>
+         <p>I am also currently working on a friend's website for their business which is helping me learn even more!</p>
          <p>By the end of 2020, I hope to start creating my own crafting blog with random things I have made (or tried to make) over the year.. watch this space!</p>
         </div>
 
@@ -110,7 +109,11 @@
             </div>
           </div>
         </div>
-      </div>   
+      </div> 
+      <div>
+        <p class="center-text orange">Also learning:</p>  
+        <p  class="center-text orange">VueJS, ReactJS, NodeJS, Sass and Less</p>       
+      </div>  
 
   </section>
 
@@ -163,7 +166,7 @@
     </div>
 </section>
 
-<!-- GITHUB -->
+<!-- Projects -->
 <section class="section section-github">
     <h3> <span><i class="fas fa-code"></i></span> Mini Projects <span><i class="fas fa-code"></i></span></h3>
 </section>
@@ -179,7 +182,10 @@
           </div>
           <div class="card-content">
             <div class="content">
-              <br>
+              <p class="project-content">I created a static Film Club website as I am part of a Film Club group and we always had to write down our movies with our non&ndash;writing hand so we
+              couldn&apos;t guess each other&apos;s movies. This website allows you to enter how many people in your group and then each movie separately. Once all movies have been entered, they
+              are put in a random order to be watched in.</p>
+              <p class="orange center-text languages">HTML | CSS | Bootstrap 4 | JQuery</p>
             </div>
           </div>
         </div>
@@ -195,13 +201,27 @@
           </div>
           <div class="card-content">
             <div class="content">
-              
-              <br>
+            <p class="project-content">
+              Due to Covid-19 and the abundance of time, I thought I would start a simple games website. So far I have created a Noughts & Crosses game for two people to play and still to come are the following;
+              a Pairs memory game, classic Snake, and a Table Tennis similar to Pong. I would like to make the Noughts &amp; Crosses game a one player so you can play against the application.
+
+            </p>
+            <p class="orange center-text languages">HTML | CSS | Bootstrap 4 | JQuery | JavaScript</p>
             </div>
           </div>
         </div>
         </a>
       </div>
+    </div>    
+</section>
+
+<!-- Projects -->
+<section class="section section-github">
+    <h3> <span><i class="fas fa-cut"></i></span> Craft Board <span><i class="fas fa-cut"></i></span></h3>
+</section>
+<section class="section">
+<div id="pinterestDiv">
+    <a data-pin-do="embedBoard" data-pin-board-width="" data-pin-scale-height="400" data-pin-scale-width="80" href="https://www.pinterest.co.uk/Avihenri/henri-creations-henri-design-studio/"></a>
     </div>
 </section>
 
@@ -228,6 +248,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/bulma-extensions@4.0.0/dist/js/bulma-extensions.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 <script>
 
   $(document).ready(function() {

@@ -354,3 +354,15 @@ progress {
         margin: 0;
     }
 }
+
+#pinterestDiv {
+    text-align: center;
+}
+
+.project-content {
+    text-align: justify;
+}
+
+.languages {
+    margin-top: 20px;
+}

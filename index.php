@@ -48,10 +48,10 @@
           <h2 class="center-text" id="aboutMe">About Me</h2>
          <p>Hello there and welcome! My name is Avril and thank you for taking the time to come read my Portfolio!</p>
          <p>I am currently based in Edinburgh and working at Rabbie's Tours in the IT & Development team. Rabbie's is a great place to work and I have been very 
-         lucky to be involved in the business as it expands. I first started as a Tour Consultant in 2016 and as I was going through an Open University course (IT & Computing), 
+         lucky to be involved in the business as it expands. <br> I first started as a Tour Consultant in 2016, and as I was going through an Open University course (IT & Computing), 
          I jumped at the chance to move into the IT team in 2017 when the position of IT Support Technician came up. In this role, I learned a lot about all sorts of devices, systems, networking, and 
          Cyber security. I was also able to put into practice what I was learning in my own time when it came to web development by building a 
-         Cyber security training site for employees. It was a fun first project! <br> Two years on and Rabbie's have now taken me on as a Developer! And here I am, loving it! 
+         Cyber security training site for employees. It was a fun first project! <br> Two years on and Rabbie's took me on as a Developer! And here I am, loving it! 
          Every day is a school day! As you may have guessed.. I love to learn!</p>
          <p>In my personal life, I love to get stuck in some new crafting challenge! Whether that be macrame, cross stitch, print design, string art.. (this is a never-ending list by the way, so I will stop there!). My poor family and friends get my interesting creations as gifts! Not too many complaints so far though :)</p>
          <p>I am also currently working on a friend's website for their business which is helping me learn even more!</p>
@@ -203,7 +203,7 @@
             <div class="content">
             <p class="project-content">
               Due to Covid-19 and the abundance of time, I thought I would start a simple games website. So far I have created a Noughts & Crosses game for two people to play and still to come are the following;
-              a Pairs memory game, classic Snake, and a Table Tennis similar to Pong. I would like to make the Noughts &amp; Crosses game a one player so you can play against the application.
+              a Pairs memory game, classic Snake, and a Table Tennis similar to Pong. I am going to make the Noughts &amp; Crosses game a one player so you can play against the application.
 
             </p>
             <p class="orange center-text languages">HTML | CSS | Bootstrap 4 | JQuery | JavaScript</p>

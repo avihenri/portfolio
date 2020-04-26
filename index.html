@@ -1,45 +1,41 @@
 <!DOCTYPE html>
 <html>
+
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Avril Henry | Portfolio</title>
-    
+    <!-- BULMA STYLES -->
     <link rel="stylesheet" href="node_modules/bulma/css/bulma.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-extensions@4.0.0/dist/css/bulma-extensions.min.css">
-    <link rel="stylesheet" href="assets/css/fontawesome-free-5.9.0-web/css/all.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-extensions@4.0.0/dist/css/bulma-extensions.min.css">   
+     <!-- CUSTOM STYLE  -->
     <link rel="stylesheet" href="assets/css/portfolio-style.css">  
-    
-    <script rel="stylesheet" src="assets/css/fontawesome-free-5.9.0-web/js/all.js"></script>
-    
-    
+    <!-- FONT AWESOME -->
+    <link rel="stylesheet" href="assets/css/fontawesome-free-5.9.0-web/css/all.css">
+    <script rel="stylesheet" src="assets/css/fontawesome-free-5.9.0-web/js/all.js"></script>   
   </head>
   <body> 
+
   <section class="section section-top">  
-
       <div class="columns" style="height: 100%;">
-
-          <div class="column flex-central-container">            
-            <div class="header-text">
-              <h1 class="title white">Avril Henry</h1>
-              <p class="subtitle white">Portfolio</p>
-            </div>           
+        <!-- LEFT COLUMN - TITLE -->
+        <div class="column flex-central-container">            
+          <div class="header-text">
+            <h1 class="title white">Avril Henry</h1>
+            <p class="subtitle white">Portfolio</p>
+          </div>           
+        </div>
+        <!-- RIGHT COLUMN - IMAGE -->
+        <div class="column flex-central-container header-img">       
+          <div class="header-img text-center">
+            <img src="assets/imgs/m5.png" width="90%;" alt="Photo of me">        
           </div>
-
-          <div class="column flex-central-container header-img">          
-           <!-- <div class="box-border"></div>
-            <div class="box-border2"></div> -->
-            <div class="header-img text-center">
-              <img src="assets/imgs/m5.png" width="90%;" alt="Photo of me">        
-          </div>
-          </div>
-
+        </div>
       </div>
-
+      <!-- LEARN MORE BTN -->
       <div class="flex-central-container">
-      <button class="button more-btn uppercase" id="learnMore"> Learn More  <span style="padding-left: 15px;"><i class="fas fa-chevron-down"></i></span></button>
+        <button class="button more-btn uppercase" id="learnMore"> Learn More  <span style="padding-left: 15px;"><i class="fas fa-chevron-down"></i></span></button>
       </div>
-
   </section>
 
   <section class="section section-details">
@@ -105,18 +101,18 @@
 
   <!-- GITHUB -->
   <section class="section section-github">
-    <h3> <span><i class="fab fa-github"></i></span> GitHub Contributions</h3>    
-      <div class="flex-central-container">     
-      <img src="http://ghchart.rshah.org/EC9B06/avihenri" class="box" alt="Avihenri's Github chart" />  
-    </div>
-    <h3><a href="https://github.com/avihenri" class="white-link">Check out my GitHub here</a></h3> 
+      <h3> <span><i class="fab fa-github"></i></span> GitHub Contributions</h3>    
+        <div class="flex-central-container">     
+        <img src="http://ghchart.rshah.org/EC9B06/avihenri" class="box" alt="Avihenri's Github chart" />  
+      </div>
+      <h3><a href="https://github.com/avihenri" class="white-link">Check out my GitHub here</a></h3> 
   </section>
 
   <!-- TIMELINE  -->
   <section class="section section-timeline">
     <div class="timeline is-centered">     
       <div class="timeline-item is-warning">
-      <div class="timeline-marker is-warning"></div>
+        <div class="timeline-marker is-warning"></div>
         <div class="timeline-content">
           <p class="heading">August 2019 - Present</p>
           <p>Junior Developer at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&apos;s</a> </p>
@@ -169,21 +165,21 @@
       </a>
       </div>           
     </div>
-``</div>
+  </div>
   </section>
 
-<script src="https://cdn.jsdelivr.net/npm/bulma-extensions@4.0.0/dist/js/bulma-extensions.min.js"></script>
-<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-<script>
-
-  $(document).ready(function() {
-    $("#learnMore").click(function() {
-    $([document.documentElement, document.body]).animate({
-        scrollTop: $("#aboutMe").offset().top
-    }, 1000);
-});
-  });
-
-</script>
+  <!-- SCRIPTS -->
+  <script src="https://cdn.jsdelivr.net/npm/bulma-extensions@4.0.0/dist/js/bulma-extensions.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script>
+    $(document).ready(function() {
+      $("#learnMore").click(function() {
+        $([document.documentElement, document.body]).animate({
+            scrollTop: $("#aboutMe").offset().top
+        }, 1000);
+      });
+    });
+  </script>
+  
   </body>
 </html>

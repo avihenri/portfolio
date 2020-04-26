@@ -199,10 +199,9 @@ progress {
 }
 
 @media(min-width: 992px) {
-    
-        .section-top {
-            height: 100vh;
-        }
+    .section-top {
+        height: 100vh;
+    }
 }
 
 @media(min-width: 768px) {
@@ -259,12 +258,10 @@ progress {
     margin-bottom: 1em;
 }
 
-@media(min-width: 992px) {
-    
+@media(min-width: 992px) {    
     .aboutme {
         margin: 0 100px 50px 100px;
-    }
-    
+    }    
 }
 
 .tools-grid {
@@ -286,8 +283,6 @@ progress {
     margin: 0 20px;
 }
 
-
-
 .tools-list {
     grid-area: 2 / 1 / 3 / 2;
     align-items: center;
@@ -308,8 +303,7 @@ progress {
     text-align: center;
 }
 
-@media(min-width: 768px) {
-    
+@media(min-width: 768px) {    
     .footer-text h1 {
         padding-bottom: 25px;
         border-bottom: 2px solid orange;
@@ -319,13 +313,10 @@ progress {
     
     .footer-text p {
         font-size: 1.5em !important;
-    }
-    
+    }    
 }
 
 @media(max-width: 768px) {
-
-
     .footer-text h1 {
         padding-bottom: 25px;
         border-bottom: 2px solid orange;

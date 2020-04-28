@@ -26,9 +26,7 @@
             </div>           
           </div>
 
-          <div class="column flex-central-container header-img">          
-           <!-- <div class="box-border"></div>
-            <div class="box-border2"></div> -->
+          <div class="column flex-central-container header-img">   
             <div class="header-img text-center">
               <img src="assets/imgs/m5.png" width="100%;" alt="Photo of me">        
           </div>
@@ -162,7 +160,10 @@
           <p class="heading">October 2015</p>
           <p>Open University: <br> BSc Computing and IT with Design <br><small>(part complete)</small></p>
         </div>
-      </div>  
+      </div> 
+    </div>
+    <div class="linkedIn-container center-text margin-top-30">
+    <a href="https://www.linkedin.com/in/avril-m-henry" class="a-link" target="_blank">Check out my full employment history on my <span><i class="fab fa-linkedin"></i></span> LinkedIn</a>
     </div>
 </section>
 

@@ -277,6 +277,12 @@ progress {
     }    
 }
 
+@media(min-width: 1400px) {    
+    .aboutme {
+        margin: 0 300px 50px 300px;
+    }    
+}
+
 .tools-grid {
     display: grid; 
     width: 100%; 

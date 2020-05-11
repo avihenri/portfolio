@@ -177,7 +177,7 @@
     <div class="columns">
       <div class="column">
         <a href="../projects/FilmClub" target="_blank">
-        <div class="card">
+        <div class="card card-container-md">
           <div class="card-image">
             <figure class="image is-3by2">
               <img src="assets/imgs/filmclub.PNG" alt="Cinema Curtains">
@@ -196,7 +196,7 @@
       </div>
       <div class="column">
         <a href="../projects/Games" target="_blank">
-        <div class="card">
+        <div class="card card-container-md">
           <div class="card-image">
             <figure class="image is-3by2">
               <img src="assets/imgs/games2.PNG" alt="Cinema Curtains">
@@ -205,17 +205,46 @@
           <div class="card-content">
             <div class="content">
             <p class="project-content">
-              Due to Covid-19 and the abundance of time, I thought I would start a simple games website. So far I have created a Noughts & Crosses game for two people to play and still to come are the following;
-              a Pairs memory game, classic Snake, and a Table Tennis similar to Pong. I am going to make the Noughts &amp; Crosses game a one player so you can play against the application.
+              Due to Covid-19 and the abundance of time, I thought I would start a simple games website. 
+              So far I have created Noughts & Crosses, Pairs (memory), Classic Snake and still to come is Table Tennis similar to Pong. 
+              I would also like to make the Noughts &amp; Crosses game a one player so you can play against the application.
 
             </p>
-            <p class="orange center-text languages">HTML | CSS | Bootstrap 4 | JQuery | JavaScript</p>
+            <p class="orange center-text languages">HTML | CSS | Bootstrap 4 | JavaScript | JQuery </p>
             </div>
           </div>
         </div>
         </a>
       </div>
-    </div>    
+    </div> 
+    <!-- <div class="columns">
+    <div class="column"> -->
+      <div class="card" style="min-height: 500px;">
+        <div class="card-content card-container-lg">
+        <h2 class="orange center-text">Tour Company Website/CMS</h2>
+          <p class="project-content"> Over the past year I have been working on a website for my friend's tour company business.
+            It was originally just going to be a static website however, I had some experience with PHP and Laravel
+            which inspired me to make it into a content management system.
+            The website is not yet live however, I have created a demo which has a brief description of what I did. You can find the demo below.
+          </p>         
+          <h2 class="center-text margin-top-30 orange">Main Features</h2>
+          <ul class="noliststyle center-text">
+            <li>Fully Responsive | Clear Navigation</li>
+            <li>Content Management | Social Media Integration</li>
+            <li> SEO ready with CMS | Simple, User-friendly Web Design </li>
+          </ul>
+          <div class="iFrame-container margin-top-30 center-text" id="demo">
+          <iframe width="560" height="500" src="https://www.youtube.com/embed/wegAmsgERos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+        </div>
+          <p class="orange center-text languages margin-top-30">HTML | CSS | Bootstrap 4 | JavaScript | JQuery | PHP | Laravel</p>
+        </div>
+      </div>
+      <!-- </div>
+      <div class="column">
+        
+      </div>
+      
+    </div> -->
 </section>
 
 <!-- Projects -->

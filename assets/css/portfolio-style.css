@@ -34,6 +34,10 @@ body {
     text-align: center;
 }
 
+.margin-top-20 {
+    margin-top: 20px;
+}
+
 .margin-top-30 {
     margin-top: 30px;
 }
@@ -156,7 +160,7 @@ progress {
     background-color: black;
     background-image: url(../imgs/geometric-transp.png);
     color: #fff !important;
-    /* padding-top:0 !important; */
+    height: 95vh;
 }
 
 .section-details {
@@ -314,7 +318,6 @@ progress {
     }
 
     #learnMore {
-        margin-top: 50px;
         font-size: 80%;
     } 
 
@@ -344,16 +347,15 @@ progress {
 
 @media(min-width: 1440px) {    
     .aboutme {
-        margin: 0 300px 50px 300px;
+        margin: 0 200px 50px 200px;
     }    
     .card-container-lg {
         margin: 0 200px;
-        /* font-size: 130%; */
     }
     .iFrame-container iframe {
         width: 60%;
     }
-   p, ul li {
+   p, ul li, .heading-bg {
        font-size: 130% !important;
    }
 
@@ -370,10 +372,6 @@ progress {
     .aboutme {
         margin: 0 100px 50px 100px;
     }    
-
-    .section-top {
-        height: 100vh;
-    }
 
     .card-container-lg {
         margin: 0 100px;

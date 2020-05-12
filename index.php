@@ -133,7 +133,7 @@
       <div class="timeline-marker is-warning"></div>
         <div class="timeline-content">
           <p class="heading">August 2019 - Present</p>
-          <p>Developer at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&apos;s</a> </p>
+          <p>Developer at Rabbie&apos;s Tours</p>
         </div>
       </div> 
       <div class="timeline-item is-warning">
@@ -141,8 +141,8 @@
           <img src="https://bulma.io/images/placeholders/32x32.png">
         </div>
         <div class="timeline-content">
-          <p class="heading">August 2017 - November 2019</p>
-          <p> IT Support Techincian at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&apos;s</a></p>
+          <p class="heading">April 2019 - Present</p>
+          <p>Developer at Rustic Tours (volunteer position)</p>
         </div>
       </div>
       <div class="timeline-item is-warning">
@@ -150,8 +150,18 @@
           <img src="https://bulma.io/images/placeholders/32x32.png">
         </div>
         <div class="timeline-content">
+          <p class="heading">August 2017 - November 2019</p>
+          <p> IT Support Technician at Rabbie&apos;s Tours</p>
+        </div>
+      </div>
+      
+      <div class="timeline-item is-warning">
+        <div class="timeline-marker is-warning is-image is-32x32">
+          <img src="https://bulma.io/images/placeholders/32x32.png">
+        </div>
+        <div class="timeline-content">
           <p class="heading">June 2017 - Present</p>
-          <p> HTML, CSS, JavaScript, JQuery, PHP, Laravel &amp; SQL</p>
+          <p> HTML, CSS, Sass, JavaScript, JQuery, PHP, Laravel, Vue, React, Express, Node &amp; SQL</p>
         </div>
       </div>
       <div class="timeline-item is-warning">
@@ -217,12 +227,10 @@
         </a>
       </div>
     </div> 
-    <!-- <div class="columns">
-    <div class="column"> -->
       <div class="card" style="min-height: 500px;">
         <div class="card-content card-container-lg">
-        <h2 class="orange center-text">Tour Company Website/CMS</h2>
-          <p class="project-content"> Over the past year I have been working on a website for my friend's tour company business.
+        <h2 class="orange center-text heading-bg">Tour Company Website/CMS</h2>
+          <p class="justify-text"> Over the past year I have been working on a website for my friend's tour company business.
             It was originally just going to be a static website however, I had some experience with PHP and Laravel
             which inspired me to make it into a content management system.
             The website is not yet live however, I have created a demo which has a brief description of what I did. You can find the demo below.
@@ -233,20 +241,14 @@
             <li>Content Management | Social Media Integration</li>
             <li> SEO ready with CMS | Simple, User-friendly Web Design </li>
           </ul>
+          <p class="center-text margin-top-20"><small>(Demo has audio)</small></p>
           <div class="iFrame-container margin-top-30 center-text" id="demo">
           <iframe width="560" height="500" src="https://www.youtube.com/embed/wegAmsgERos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
         </div>
           <p class="orange center-text languages margin-top-30">HTML | CSS | Bootstrap 4 | JavaScript | JQuery | PHP | Laravel</p>
         </div>
       </div>
-      <!-- </div>
-      <div class="column">
-        
-      </div>
-      
-    </div> -->
-</section>
-
+          </section>
 <!-- Projects -->
 <section class="section section-github">
     <h3> <span><i class="fas fa-cut"></i></span> Craft Board <span><i class="fas fa-cut"></i></span></h3>

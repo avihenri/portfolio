@@ -51,6 +51,11 @@ body {
     font-weight: 600;
 }
 
+.a-link-light-weight {
+    color: darkslategrey !important;
+    font-weight: 400;
+}
+
 a:hover {
     color: orange !important;
     border-bottom: 0 solid orange;

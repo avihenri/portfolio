@@ -52,8 +52,10 @@
          Cyber security. I was also able to put into practice what I was learning in my own time when it came to web development by building a 
          Cyber security training site for employees. It was a fun first project! <br> Two years later and Rabbie's took me on as a Developer! And here I am, loving it! 
          Every day is a school day! As you may have guessed.. I love to learn!</p>
-         <p>In my personal life, I love to get stuck into some new crafting challenge! Whether that be macrame, cross stitch, print design, string art.. (this is a never-ending list by the way, so I will stop there!). My poor family and friends get my interesting creations as gifts! Not too many complaints so far though :) Check out my Pinterest board below to see items I have made.</p>
-         <p>I am also currently working on a friend's website for their business which has really helped me progress. It is ready for production however, due to Covid-19 the release has been delayed.</p>
+         <p>In my personal life, I love to get stuck into some new crafting challenge! Whether that be macrame, cross stitch, print design, string art.. 
+           (this is a never-ending list by the way, so I will stop there!). My poor family and friends get my interesting creations as gifts! Not too many complaints so far though :) 
+           Check out my Pinterest board <a href="#pinterestDiv" class="a-link-light-weight ">below</a> to see items I have made.</p>
+         <p>I am also currently working on a friend's website for their business which has really helped my progress. It is ready for production however, due to Covid-19 the release has been delayed.</p>
          <p>By the end of 2020, I hope to start creating my own crafting blog with random things I have made (or tried to make) over the year.. watch this space!</p>
 
         </div>

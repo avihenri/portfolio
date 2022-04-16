@@ -44,40 +44,39 @@
       <!-- ABOUT ME -->
         <div class="aboutme ">
           <h2 class="center-text" id="aboutMe">About Me</h2>
-          <p>Hello there and welcome! My name is Avril and thank you for taking the time to come read my Portfolio!
-         I am currently based in Edinburgh and working at Rabbie's Tours in the IT & Development team. Rabbie's is a great place to work and I have been very 
-         lucky to be involved in the business as it expands. </p>
-         <p> I first started as a Tour Consultant in 2016, and as I was going through an Open University course (IT & Computing), 
-         I jumped at the chance to move into the IT team in 2017 when the position of IT Support Technician came up. In this role, I learned a lot about all sorts of devices, systems, networking, and 
-         Cyber security. I was also able to put into practice what I was learning in my own time when it came to web development by building a 
-         Cyber security training site for employees. It was a fun first project! <br> Two years later and Rabbie's took me on as a Developer! And here I am, loving it! 
-         Every day is a school day! As you may have guessed.. I love to learn!</p>
-         <p>In my personal life, I love to get stuck into some new crafting challenge! Whether that be macrame, cross stitch, print design, string art.. 
-           (this is a never-ending list by the way, so I will stop there!). My poor family and friends get my interesting creations as gifts! Not too many complaints so far though :) 
-           Check out my Pinterest board <a href="#pinterestDiv" class="a-link-light-weight ">below</a> to see items I have made.</p>
-         <p>I am also currently working on a friend's website for their business which has really helped my progress. It is ready for production however, due to Covid-19 the release has been delayed.</p>
-         <p>By the end of 2020, I hope to start creating my own crafting blog with random things I have made (or tried to make) over the year.. watch this space!</p>
-
+          <p>Hello, my name is Avril and I would like to welcome and thank you for taking the time to read my portfolio. 
+            I am currently based in Perth and work at Cyberhawk as a Junipr Developer. 
+            For the past few years I have been learning everything there is to do with being Developer. 
+            I love to learn and enjoy a challenge. </p>
+          <p>In my personal life, I love to get stuck into some new crafting challenge! Whether that be macrame, cross stitch, print design, string art.. 
+            (this is a never-ending list by the way, so I will stop there!). My poor family and friends get my interesting creations as gifts! Not too many complaints so far though :) 
+            Check out my Pinterest board <a href="#pinterestDiv" class="a-link-light-weight ">below</a> to see items I have made.</p>
+          <p>
+            I also currently manage my friends Tour company website which I built from scratch - 
+            <a href="https://www.rustic-tours.co.uk/" target="_blank" class="a-link">Rustic Tours</a>
+          </p>
         </div>
 
         <div class="columns">
         <!-- SKILLS -->
         <div class="column skills">
-          <h3 class="center-text">Skills</h3>
+          <h3 class="center-text">Skills (estimates)</h3>
           <h4 class="uppercase">HTML5</h4>
           <progress class="progress is-orange" value="100" min="0" max="100">100%</progress>
           <h4 class="uppercase">CSS</h4>
-          <progress class="progress is-orange" value="85" max="100">80%</progress>
+          <progress class="progress is-orange" value="85" max="100">85%</progress>
           <h4 class="uppercase">Javascript</h4>
-          <progress class="progress is-orange" value="45" max="100">40%</progress>
+          <progress class="progress is-orange" value="45" max="100">45%</progress>
           <h4 class="uppercase">JQuery</h4>
-          <progress class="progress is-orange" value="45" max="100">35%</progress>
-          <h4 class="uppercase">php</h4>
-          <progress class="progress is-orange" value="45" max="100">35%</progress>
-          <h4 class="uppercase">laravel</h4>
-          <progress class="progress is-orange" value="65" max="100">65%</progress>
-          <h4 class="uppercase">SQL</h4>
+          <progress class="progress is-orange" value="50" max="100">50%</progress>
+          <h4 class="uppercase">ReactJS</h4>
           <progress class="progress is-orange" value="20" max="100">20%</progress>
+          <h4 class="uppercase">php</h4>
+          <progress class="progress is-orange" value="70" max="100">70%</progress>
+          <h4 class="uppercase">laravel</h4>
+          <progress class="progress is-orange" value="75" max="100">75%</progress>
+          <h4 class="uppercase">SQL</h4>
+          <progress class="progress is-orange" value="30" max="100">30%</progress>
         </div>
 
         <!-- TOOLS -->
@@ -121,21 +120,36 @@
 
   <!-- GITHUB -->
   <section class="section section-github">
-    <h3> <span><i class="fab fa-github"></i></span> GitHub Contributions</h3>    
+    <h3> <span><i class="fab fa-github"></i></span> My Personal GitHub Contributions</h3>    
       <div class="flex-central-container">     
       <img src="https://ghchart.rshah.org/EC9B06/avihenri" class="box" alt="Avihenri's Github chart" />  
     </div>
-    <h3><a href="https://github.com/avihenri" class="white-link">Check out my GitHub here</a></h3> 
+    <h3><a href="https://github.com/avihenri" class="white-link">Check out my Personal GitHub here</a></h3> 
+    <h3 style="margin-top: 50px;"><span><i class="fab fa-github"></i></span>My Work GitHub Contributions</h3>    
+      <div class="flex-central-container">     
+      <img src="http://ghchart.rshah.org/EC9B06/avihawk" class="box" alt="Avihawk's Github chart" />  
+    </div>
+    <h3><a href="https://github.com/avihawk" class="white-link">Check out my Work GitHub here</a></h3> 
   </section>
+
 
   <!-- TIMELINE  -->
   <section class="section section-timeline">
     <div class="timeline is-centered">     
-      <div class="timeline-item is-warning">
-      <div class="timeline-marker is-warning"></div>
+    <div class="timeline-item is-warning">
+        <div class="timeline-marker is-warning"></div>
         <div class="timeline-content">
-          <p class="heading">August 2019 - Present</p>
-          <p>Developer at Rabbie&apos;s Tours</p>
+          <p class="heading">June 2021 - Present</p>
+          <p>Junior Developer at <a href="https://thecyberhawk.com/" target="_blank" class="a-link">Cyberhawk</a> </p>
+        </div>
+      </div> 
+      <div class="timeline-item is-warning">
+        <div class="timeline-marker is-warning is-image is-32x32">
+          <img src="http://bulma.io/images/placeholders/32x32.png">
+        </div>
+        <div class="timeline-content">
+          <p class="heading">August 2019 - June 2021</p>
+          <p>Junior Developer at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&apos;s</a> </p>
         </div>
       </div> 
       <div class="timeline-item is-warning">
@@ -197,9 +211,11 @@
           </div>
           <div class="card-content">
             <div class="content">
-              <p class="project-content">I created a static Film Club website as I am part of a Film Club group and we always had to write down our movies with our non&ndash;writing hand so we
-              couldn&apos;t guess each other&apos;s movies. This website allows you to enter how many people in your group and then each movie separately. Once all movies have been entered, they
-              are put in a random order to be watched in.</p>
+              <p class="project-content">
+                I created a static Film Club website as I am part of a Film Club group and we always had to write down our movies with our non&ndash;writing hand so we
+                couldn&apos;t guess each other&apos;s movies. This website allows you to enter how many people in your group and then each movie separately. Once all movies have been entered, they
+                are put in a random order to be watched in.
+              </p>
               <p class="orange center-text languages">HTML | CSS | Bootstrap 4 | JQuery</p>
             </div>
           </div>
@@ -218,9 +234,8 @@
             <div class="content">
             <p class="project-content">
               Due to Covid-19 and the abundance of time, I thought I would start a simple games website. 
-              So far I have created Noughts & Crosses, Pairs (memory), Classic Snake and still to come is Table Tennis similar to Pong. 
+              I managed some games before going back to work - Noughts & Crosses, Pairs (memory), Classic Snake.
               I would also like to make the Noughts &amp; Crosses game a one player so you can play against the application.
-
             </p>
             <p class="orange center-text languages">HTML | CSS | Bootstrap 4 | JavaScript | JQuery </p>
             </div>
@@ -232,16 +247,17 @@
       <div class="card" style="min-height: 500px;">
         <div class="card-content card-container-lg">
         <h2 class="orange center-text heading-bg">Tour Company Website/CMS</h2>
-          <p class="justify-text"> Over the past year I have been working on a website for my friend's tour company business.
+          <p class="justify-text"> 
+            During Covid, I was able to work on a website for my friend's tour company business.
             It was originally just going to be a static website however, I had some experience with PHP and Laravel
             which inspired me to make it into a content management system.
-            The website is not yet live however, I have created a demo which has a brief description of what I did. You can find the demo below.
+            The website: <a href="https://thecyberhawk.com/" target="_blank" class="a-link">Cyberhawk</a> I also created a demo which has a brief description of what I did. You can find the demo below.
           </p>         
           <h2 class="center-text margin-top-30 orange">Main Features</h2>
           <ul class="noliststyle center-text">
             <li>Fully Responsive | Clear Navigation</li>
             <li>Content Management | Social Media Integration</li>
-            <li> SEO ready with CMS | Simple, User-friendly Web Design </li>
+            <li>SEO ready with CMS | Simple, User-friendly Web Design </li>
           </ul>
           <p class="center-text margin-top-20"><small>(Demo has audio)</small></p>
           <div class="iFrame-container margin-top-30 center-text" id="demo">
@@ -250,36 +266,37 @@
           <p class="orange center-text languages margin-top-30">HTML | CSS | Bootstrap 4 | JavaScript | JQuery | PHP | Laravel</p>
         </div>
       </div>
-          </section>
-<!-- Projects -->
-<section class="section section-github">
-    <h3> <span><i class="fas fa-cut"></i></span> Craft Board <span><i class="fas fa-cut"></i></span></h3>
-</section>
-<section class="section">
-<div id="pinterestDiv">
-    <a data-pin-do="embedBoard" data-pin-board-width="" data-pin-scale-height="400" data-pin-scale-width="80" href="https://www.pinterest.co.uk/Avihenri/henri-creations-henri-design-studio/"></a>
+  </section>
+
+  <!-- Projects -->
+  <section class="section section-github">
+      <h3> <span><i class="fas fa-cut"></i></span> Craft Board <span><i class="fas fa-cut"></i></span></h3>
+  </section>
+  <section class="section">
+    <div id="pinterestDiv">
+      <a data-pin-do="embedBoard" data-pin-board-width="" data-pin-scale-height="400" data-pin-scale-width="80" href="https://www.pinterest.co.uk/Avihenri/henri-creations-henri-design-studio/"></a>
     </div>
-</section>
+  </section>
 
 
   <!-- FOOTER -->
   <section class="section section-footer">
-  <div class="columns">
-    <div class="column flex-central-container">            
-      <div class="footer-text">
-        <h1 class="title white">Contact</h1>
-        <a href="mailto:info@henri-ds.com" class="white"> info@henri-ds.com</a> <br>
-        <a href="https://www.linkedin.com/in/avril-m-henry" class="white" target="_blank" style="padding-left: 30px;"><span><i class="fab fa-linkedin"></i></span> LinkedIn</a>
-      </div>           
+    <div class="columns">
+      <div class="column flex-central-container">            
+        <div class="footer-text">
+          <h1 class="title white">Contact</h1>
+          <a href="mailto:info@henri-ds.com" class="white"> info@henri-ds.com</a> <br>
+          <a href="https://www.linkedin.com/in/avril-m-henry" class="white" target="_blank" style="padding-left: 30px;"><span><i class="fab fa-linkedin"></i></span> LinkedIn</a>
+        </div>           
+      </div>
+      <div class="column flex-central-container">            
+        <div class="footer-text">
+        <a href="https://bulma.io" target="_blank">
+        <img src="https://bulma.io/images/made-with-bulma--white.png" alt="Made with Bulma" width="300" height="auto">
+        </a>
+        </div>           
+      </div>
     </div>
-    <div class="column flex-central-container">            
-      <div class="footer-text">
-      <a href="https://bulma.io" target="_blank">
-      <img src="https://bulma.io/images/made-with-bulma--white.png" alt="Made with Bulma" width="300" height="auto">
-      </a>
-      </div>           
-    </div>
-``</div>
   </section>
 
 <script src="https://cdn.jsdelivr.net/npm/bulma-extensions@4.0.0/dist/js/bulma-extensions.min.js"></script>
@@ -289,10 +306,10 @@
 
   $(document).ready(function() {
     $("#learnMore").click(function() {
-    $([document.documentElement, document.body]).animate({
-        scrollTop: $("#aboutMe").offset().top
-    }, 1000);
-});
+      $([document.documentElement, document.body]).animate({
+          scrollTop: $("#aboutMe").offset().top
+      }, 1000);
+    });
   });
 
 </script>

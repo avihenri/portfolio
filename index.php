@@ -28,7 +28,7 @@
 
           <div class="column flex-central-container header-img">   
             <div class="header-img text-center">
-              <img src="assets/imgs/m5.png" width="100%;" alt="Photo of me">        
+              <img src="assets/imgs/m6.png" width="100%;" alt="Photo of me">        
           </div>
           </div>
 

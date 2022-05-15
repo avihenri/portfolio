@@ -292,6 +292,22 @@ progress {
 .iFrame-container iframe {
     height: 500px;
 }
+
+
+.codePen-wrapper {
+    margin-top: 30px;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+}
+
+.codePen-item {
+    min-width: 400px;
+    height: 500px;
+}
+
+iframe { height: 500px; }
+
 /* ========== MEDIA QUERIES ========= */
 
 @media(max-width: 992px) {

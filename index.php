@@ -115,7 +115,6 @@
         <p class="center-text orange">Also learning:</p>  
         <p  class="center-text orange">VueJS, ReactJS, NodeJS, Sass and Less</p>       
       </div>  
-
   </section>
 
   <!-- GITHUB -->
@@ -140,9 +139,17 @@
         <div class="timeline-marker is-warning"></div>
         <div class="timeline-content">
           <p class="heading">June 2021 - Present</p>
-          <p>Junior Developer at <a href="https://thecyberhawk.com/" target="_blank" class="a-link">Cyberhawk</a> </p>
+          <p>Software Developer at <a href="https://thecyberhawk.com/" target="_blank" class="a-link">Cyberhawk</a></p>
+          <p><small>Started as a Junior &amp; promoted in May 2022.</small></p>
         </div>
       </div> 
+      <div class="timeline-item is-warning">
+        <div class="timeline-marker is-warning"></div>
+        <div class="timeline-content">
+          <p class="heading">April 2019 - Present</p>
+          <p>Developer at <a href="https://www.rustic-tours.co.uk/" target="_blank" class="a-link">Rustic Tours</a> (volunteer position)</p>
+        </div>
+      </div>
       <div class="timeline-item is-warning">
         <div class="timeline-marker is-warning is-image is-32x32">
           <img src="http://bulma.io/images/placeholders/32x32.png">
@@ -152,15 +159,6 @@
           <p>Junior Developer at <a href="https://www.rabbies.com" target="_blank" class="a-link">Rabbie&apos;s</a> </p>
         </div>
       </div> 
-      <div class="timeline-item is-warning">
-        <div class="timeline-marker is-warning is-image is-32x32">
-          <img src="https://bulma.io/images/placeholders/32x32.png">
-        </div>
-        <div class="timeline-content">
-          <p class="heading">April 2019 - Present</p>
-          <p>Developer at Rustic Tours (volunteer position)</p>
-        </div>
-      </div>
       <div class="timeline-item is-warning">
         <div class="timeline-marker is-warning is-image is-32x32">
           <img src="https://bulma.io/images/placeholders/32x32.png">
@@ -217,6 +215,7 @@
                 are put in a random order to be watched in.
               </p>
               <p class="orange center-text languages">HTML | CSS | Bootstrap 4 | JQuery</p>
+              <p class="orange center-text languages">2020</p>
             </div>
           </div>
         </div>
@@ -227,7 +226,7 @@
         <div class="card card-container-md">
           <div class="card-image">
             <figure class="image is-3by2">
-              <img src="assets/imgs/games2.PNG" alt="Cinema Curtains">
+              <img src="assets/imgs/games2.PNG" alt="Games">
             </figure>
           </div>
           <div class="card-content">
@@ -238,6 +237,7 @@
               I would also like to make the Noughts &amp; Crosses game a one player so you can play against the application.
             </p>
             <p class="orange center-text languages">HTML | CSS | Bootstrap 4 | JavaScript | JQuery </p>
+            <p class="orange center-text languages">2020</p>
             </div>
           </div>
         </div>
@@ -250,8 +250,10 @@
           <p class="justify-text"> 
             During Covid, I was able to work on a website for my friend's tour company business.
             It was originally just going to be a static website however, I had some experience with PHP and Laravel
-            which inspired me to make it into a content management system.
-            The website: <a href="https://thecyberhawk.com/" target="_blank" class="a-link">Cyberhawk</a> I also created a demo which has a brief description of what I did. You can find the demo below.
+            which inspired me to make it into a content management system. I also created a demo which has a brief description of what I did. You can find the demo below.
+            <br>
+            The website: <a href="https://www.rustic-tours.co.uk/" target="_blank" class="a-link">Rustic Tours</a> 
+            
           </p>         
           <h2 class="center-text margin-top-30 orange">Main Features</h2>
           <ul class="noliststyle center-text">
@@ -264,11 +266,54 @@
           <iframe width="560" height="500" src="https://www.youtube.com/embed/wegAmsgERos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
         </div>
           <p class="orange center-text languages margin-top-30">HTML | CSS | Bootstrap 4 | JavaScript | JQuery | PHP | Laravel</p>
+          <p class="orange center-text languages">2019 &ndash; Current</p>
         </div>
       </div>
+
+      <div class="card" style="min-height: 500px;">
+        <div class="card-content card-container-lg">
+        <h2 class="orange center-text heading-bg">CodePen</h2>
+
+        <p>
+          I really like pixel pictures and thought I would try and make my own. My first was a pixel tree but then I moved onto
+          making pixels from themed annual days coming up. You can check out all my pens <a href="https://codepen.io/avihenri" target="_blank" class="a-link">here</a>.
+        </p>
+
+        <div class="codePen-wrapper">
+          <div class="codePen-item">
+            <p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="BamYYXN" data-user="avihenri" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+            <span>See the Pen <a href="https://codepen.io/avihenri/pen/BamYYXN">
+            Beginner CSS Pixel Art | Tree</a> by avihenri (<a href="https://codepen.io/avihenri">@avihenri</a>)
+            on <a href="https://codepen.io">CodePen</a>.</span>
+          </p>
+          <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+          </div>
+
+          <div class="codePen-item">
+              <p class="codepen" data-height="400" data-default-tab="result" data-slug-hash="JjMmMPm" data-user="avihenri" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+                <span>See the Pen <a href="https://codepen.io/avihenri/pen/JjMmMPm">
+                CSS Easter Pixel Art</a> by avihenri (<a href="https://codepen.io/avihenri">@avihenri</a>)
+                on <a href="https://codepen.io">CodePen</a>.</span>
+            </p>
+            <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+          </div>
+
+          <div class="codePen-item">
+            <p class="codepen" data-height="400" data-default-tab="result" data-slug-hash="NWXzNKZ" data-user="avihenri" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+              <span>See the Pen <a href="https://codepen.io/avihenri/pen/NWXzNKZ">
+              CSS Earth Day Pixel</a> by avihenri (<a href="https://codepen.io/avihenri">@avihenri</a>)
+              on <a href="https://codepen.io">CodePen</a>.</span>
+            </p>
+            <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+          </div>
+
+        </div>
+    
+      </div>
+    </div>
   </section>
 
-  <!-- Projects -->
+  <!-- Github -->
   <section class="section section-github">
       <h3> <span><i class="fas fa-cut"></i></span> Craft Board <span><i class="fas fa-cut"></i></span></h3>
   </section>

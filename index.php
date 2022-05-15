@@ -244,7 +244,7 @@
         </a>
       </div>
     </div> 
-      <div class="card" style="min-height: 500px;">
+      <div class="card" style="min-height: 500px; margin-bottom: 20px;">
         <div class="card-content card-container-lg">
         <h2 class="orange center-text heading-bg">Tour Company Website/CMS</h2>
           <p class="justify-text"> 

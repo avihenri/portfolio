@@ -293,7 +293,6 @@ progress {
     height: 500px;
 }
 
-
 .codePen-wrapper {
     margin-top: 30px;
     display: flex;
@@ -304,6 +303,7 @@ progress {
 .codePen-item {
     min-width: 400px;
     height: 500px;
+    margin-top: 10px;
 }
 
 iframe { height: 500px; }
